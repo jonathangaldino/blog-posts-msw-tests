@@ -2,4 +2,4 @@
 
 Repository with the code I used to write the article.
 
-Post link.
+[Post](https://blog.galdino.dev/making-integration-tests-easier-with-msw)
